@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Gowsika+E.;Aspiring+Software+Engineer;Java+%7C+Full+Stack+Development;Building+projects+and+solving+problems" alt="Typing introduction" />
+<img src="./assets/profile-banner.svg" alt="Gowsika — Software Engineer" width="100%" />
 
 <p>
   <a href="https://gowsika-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-6D28D9?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
