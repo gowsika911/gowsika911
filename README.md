@@ -8,10 +8,10 @@
 <img src="./assets/profile-banner.svg" alt="Gowsika — Software Engineer" width="100%" />
 
 <p align="center">
-  <a href="https://gowsika-portfolio.vercel.app/"><img src="./assets/portfolio-pill.svg" alt="Visit my portfolio" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/gowsika-eswaran-9b4996364"><img src="./assets/linkedin-pill.svg" alt="Let's connect on LinkedIn" /></a>&nbsp;
-  <a href="https://leetcode.com/u/Gowsika2006/"><img src="./assets/leetcode-pill.svg" alt="Coding profile" /></a>&nbsp;
-  <a href="mailto:gowsika911@gmail.com"><img src="./assets/email-pill.svg" alt="Contact me" /></a>
+  <a href="https://gowsika-portfolio.vercel.app/"><img src="./assets/portfolio-pill.svg" width="150" alt="Visit my portfolio" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/gowsika-eswaran-9b4996364"><img src="./assets/linkedin-pill.svg" width="135" alt="Let's connect on LinkedIn" /></a>&nbsp;
+  <a href="https://leetcode.com/u/Gowsika2006/"><img src="./assets/leetcode-pill.svg" width="135" alt="Coding profile" /></a>&nbsp;
+  <a href="mailto:gowsika911@gmail.com"><img src="./assets/email-pill.svg" width="120" alt="Contact me" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=gowsika911&label=PROFILE+VIEWS&color=7C3AED&style=flat" alt="Profile views" />
