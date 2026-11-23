@@ -8,13 +8,13 @@
 <img src="./assets/profile-banner.svg" alt="Gowsika — Software Engineer" width="100%" />
 
 <p>
-  <a href="https://gowsika-portfolio.vercel.app/"><img src="https://img.shields.io/badge/%E2%9C%A6_VISIT_MY_PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=21123F" alt="Visit my portfolio" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/gowsika-eswaran-9b4996364"><img src="https://img.shields.io/badge/LET'S_CONNECT-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=10234A" alt="Connect on LinkedIn" /></a>
-  &nbsp;
-  <a href="https://leetcode.com/u/Gowsika2006/"><img src="https://img.shields.io/badge/CODING_PROFILE-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=49300B" alt="LeetCode profile" /></a>
-  &nbsp;
-  <a href="mailto:gowsika911@gmail.com"><img src="https://img.shields.io/badge/CONTACT_ME-0F766E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B3735" alt="Email Gowsika" /></a>
+  <a href="https://gowsika-portfolio.vercel.app/"><img src="./assets/portfolio-pill.svg" alt="Visit my portfolio" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gowsika-eswaran-9b4996364"><img src="./assets/linkedin-pill.svg" alt="Let's connect on LinkedIn" /></a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Gowsika2006/"><img src="./assets/leetcode-pill.svg" alt="Coding profile" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:gowsika911@gmail.com"><img src="./assets/email-pill.svg" alt="Contact me" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=gowsika911&label=PROFILE+VIEWS&color=7C3AED&style=flat" alt="Profile views" />
