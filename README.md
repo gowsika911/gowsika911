@@ -1,14 +1,20 @@
-<!-- Profile README for https://github.com/gowsika911 -->
+<!--
+  GitHub Profile README
+  Dynamic cards are provided by external services and may occasionally be unavailable.
+-->
 
 <div align="center">
 
-# Gowsika E.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Gowsika+E.;Aspiring+Software+Engineer;Java+%7C+Full+Stack+Development;Building+projects+and+solving+problems" alt="Typing introduction" />
 
-### Aspiring Software Engineer | Java Developer | Full Stack Developer
+<p>
+  <a href="https://gowsika-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/gowsika-eswaran-9b4996364"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/Gowsika2006/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="mailto:gowsika911@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-Computer Science and Engineering student passionate about building useful software, developing full-stack applications, and solving problems through data structures and algorithms.
-
-[Portfolio](https://gowsika-portfolio.vercel.app/) · [GitHub](https://github.com/gowsika911) · [LeetCode](https://leetcode.com/u/Gowsika2006/) · [LinkedIn](https://www.linkedin.com/in/gowsika-eswaran-9b4996364)
+<img src="https://komarev.com/ghpvc/?username=gowsika911&label=PROFILE+VIEWS&color=0891b2&style=flat" alt="Profile views" />
 
 </div>
 
@@ -16,141 +22,191 @@ Computer Science and Engineering student passionate about building useful softwa
 
 ## About Me
 
-I am **Gowsika E.**, a Computer Science and Engineering student at **V.S.B College of Engineering Technical Campus**, currently pursuing my B.E. degree (2024–2028).
+I'm **Gowsika E.**, a Computer Science and Engineering student at **V.S.B College of Engineering Technical Campus** (2024–2028).
 
-- Interested in **Java development, full-stack engineering, and problem solving**.
-- Solved **200+ problems on LeetCode**, practising data structures and algorithms.
+- Focused on **Java, Data Structures and Algorithms, and Full Stack Development**.
+- Solved **200+ problems on LeetCode** through consistent practice.
 - Building applications with **React, Node.js, Express, and MongoDB**.
-- Learning backend development with **Spring Boot** and strengthening my software engineering fundamentals.
-- Looking for opportunities to learn, collaborate, and contribute to real-world software projects.
+- Exploring **Spring Boot** and backend engineering.
+- Interested in internships, collaborative projects, and opportunities to build practical software.
 
-My goal is to become a software engineer who builds reliable, scalable, and user-focused products.
+> My goal is to become a software engineer who builds reliable, scalable, and user-focused products.
 
----
-
-## Technical Skills
-
-| Category | Technologies |
-|---|---|
-| Programming Languages | Java, C, JavaScript |
-| Frontend | React, HTML5, Tailwind CSS |
-| Backend | Node.js, Express.js, Spring Boot |
-| Databases | MongoDB, MySQL |
-| Developer Tools | Git, GitHub, Postman, VS Code |
-| Core Concepts | Data Structures and Algorithms, Object-Oriented Programming, REST APIs |
-
----
-
-## Featured Projects
-
-### AirTrace AI
-**Machine Learning · React · Node.js · MongoDB**
-
-An air-pollution source attribution platform that estimates possible emission sources such as traffic, industrial activity, construction dust, and seasonal factors across monitoring zones.
-
-- Random Forest-based source classification.
-- Interactive GIS visualisation and pollution trend views.
-- AI-generated advisories and alert support.
-- The portfolio project reports 96.3% model accuracy; results depend on the project's dataset and evaluation setup.
-
-[Source Code](https://github.com/gowsika911/Air-Trace-AI) · [Live Demo](https://air-trace-ai.vercel.app/)
-
-### Smart AI Medicine Box
-**MERN Stack · AI · REST API**
-
-An AI-assisted medication compliance project designed to support medication tracking and adherence monitoring, including a compliance score based on missed doses, delays, and duplicate attempts.
-
-- JWT-authenticated application workflow.
-- Medication compliance scoring.
-- Developed as a team project; I served as team lead.
-- Patent application reference listed in the portfolio: **202641075807 A1**.
-
-[Source Code](https://github.com/gowsika911/smart-ai-medicine-box)
-
-### Pulse-Sync
-**MERN Stack · Enterprise Application**
-
-An employee resource and knowledge management platform focused on team skill management, resource allocation, and knowledge sharing.
-
-- Employee skill mapping and resource management.
-- JWT-based authentication and role-based access control.
-- Knowledge sharing and video learning features.
-- Redis caching in the project design.
-
-[Source Code](https://github.com/gowsika911/Sync-Pulse)
-
----
-
-## Achievements
-
-- **200+ LeetCode problems solved** across data structures, algorithms, and problem-solving topics.
-- **8.97 CGPA** in B.E. Computer Science and Engineering.
-- **NPTEL Programming in Java — Silver Elite**, 80%.
-- **NPTEL Computer Networks — Elite**, 81%.
-- **Patent application** listed for Smart AI Medicine Box: 202641075807 A1.
-
----
-
-## Internships
-
-**Web Development Intern — Nxtlogic Software Solutions, Coimbatore**  
-June–July 2026
-
-Completed a web development internship focused on practical software development experience.
-
-**Full Stack Web Development Intern — Pantech Solutions**  
-May–June 2025
-
-Completed a full-stack web development internship.
-
----
-
-## Certifications
-
-| Certification | Issuer | Result / Year |
-|---|---|---|
-| Computer Networks | NPTEL — IIT Indore | Elite, 81% · 2026 |
-| React Native | Infosys Springboard | Completed · 2026 |
-| Programming in Java | NPTEL — IIT | Silver Elite, 80% · 2025 |
-| Full Stack Web Development | Pantech Solutions | Internship Certificate · 2025 |
-
----
-
-## Education
-
-**B.E. Computer Science and Engineering**  
-V.S.B College of Engineering Technical Campus  
-2024–2028 · Pursuing · **8.97 CGPA**
-
-Areas of focus: Full Stack Development, Data Structures and Algorithms, and Object-Oriented Programming.
-
-**Class XII — Higher Secondary**  
-V.V.M. Matriculation Higher Secondary School, Coimbatore  
-Completed March 2024 · **87.5%**
-
----
-
-## Coding Profiles
-
-- **LeetCode:** [@Gowsika2006](https://leetcode.com/u/Gowsika2006/) — 200+ problems solved
-- **GitHub:** [@gowsika911](https://github.com/gowsika911)
-- **LinkedIn:** [Gowsika Eswaran](https://www.linkedin.com/in/gowsika-eswaran-9b4996364)
-
----
-
-## Let's Connect
-
-I am open to **internships, collaborations, and software development opportunities**. Feel free to connect through my portfolio or LinkedIn.
+## Tech Stack
 
 <div align="center">
 
-[Visit My Portfolio](https://gowsika-portfolio.vercel.app/)
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=java,c,js" alt="Java, C, JavaScript" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" alt="HTML, CSS, React, Tailwind CSS" />
+
+**Backend, Databases & Tools**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql,git,github,postman,vscode" alt="Node.js, Express, Spring, MongoDB, MySQL, Git, GitHub, Postman, VS Code" />
 
 </div>
 
----
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### AirTrace AI
+
+**ML · React · Node.js · MongoDB**
+
+An air-pollution source attribution platform estimating possible emission sources across monitoring zones.
+
+- Random Forest source classification
+- GIS visualisation and pollution trends
+- AI-generated advisories and alerts
+- Portfolio-reported model accuracy: **96.3%** (dataset/evaluation dependent)
+
+[Repository](https://github.com/gowsika911/Air-Trace-AI) · [Live Demo](https://air-trace-ai.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### Smart AI Medicine Box
+
+**MERN · AI · REST API**
+
+An AI-assisted medication tracking and compliance project.
+
+- Medication adherence monitoring
+- Compliance scoring based on missed or delayed doses
+- JWT-authenticated workflow
+- Team lead for a four-member team
+
+[Repository](https://github.com/gowsika911/smart-ai-medicine-box)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Pulse-Sync
+
+**MERN · Enterprise Application**
+
+An employee resource and knowledge management platform.
+
+- Employee skill mapping
+- Resource and team management
+- JWT authentication and role-based access
+- Knowledge sharing and video learning
+
+[Repository](https://github.com/gowsika911/Sync-Pulse)
+
+</td>
+<td width="50%" valign="top">
+
+### More Projects
+
+Explore my repositories for additional academic, experimental, and personal projects.
+
+[Browse all repositories](https://github.com/gowsika911?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+## GitHub Statistics
 
 <div align="center">
+
+<a href="https://github.com/gowsika911">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gowsika911&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight" alt="GitHub statistics" />
+</a>
+<a href="https://github.com/gowsika911">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowsika911&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+</a>
+
+<img src="https://streak-stats.demolab.com?user=gowsika911&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="70%" />
+
+</div>
+
+## LeetCode
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Gowsika2006/">
+  <img src="https://leetcard.jacoblin.cool/Gowsika2006?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode statistics and activity" width="75%" />
+</a>
+
+**200+ problems solved** · Data Structures · Algorithms · Problem Solving
+
+</div>
+
+## Achievements
+
+| Achievement | Result |
+|---|---|
+| LeetCode | 200+ problems solved |
+| B.E. Computer Science and Engineering | 8.97 CGPA |
+| NPTEL Programming in Java | Silver Elite · 80% |
+| NPTEL Computer Networks | Elite · 81% |
+| Smart AI Medicine Box | Patent application reference: 202641075807 A1 |
+
+## Internships
+
+- **Web Development Intern — Nxtlogic Software Solutions, Coimbatore** · June–July 2026
+- **Full Stack Web Development Intern — Pantech Solutions** · May–June 2025
+
+## Certifications
+
+<details>
+<summary><strong>View certifications</strong></summary>
+
+| Certification | Issuer | Result |
+|---|---|---|
+| Computer Networks (2026) | NPTEL — IIT Indore | Elite · 81% |
+| React Native (2026) | Infosys Springboard | Completed |
+| Programming in Java (2025) | NPTEL — IIT | Silver Elite · 80% |
+| Full Stack Web Development (2025) | Pantech Solutions | Internship Certificate |
+
+</details>
+
+## Education
+
+<details open>
+<summary><strong>B.E. Computer Science and Engineering · 2024–2028</strong></summary>
+
+**V.S.B College of Engineering Technical Campus**  
+Currently pursuing · **8.97 CGPA**
+
+Focus areas: Full Stack Development, Data Structures and Algorithms, Object-Oriented Programming.
+
+</details>
+
+<details>
+<summary><strong>Class XII — Higher Secondary · March 2024</strong></summary>
+
+**V.V.M. Matriculation Higher Secondary School, Coimbatore**  
+**87.5%**
+
+</details>
+
+## Connect With Me
+
+<div align="center">
+
+| Platform | Profile |
+|---|---|
+| Portfolio | [gowsika-portfolio.vercel.app](https://gowsika-portfolio.vercel.app/) |
+| GitHub | [@gowsika911](https://github.com/gowsika911) |
+| LeetCode | [@Gowsika2006](https://leetcode.com/u/Gowsika2006/) |
+| LinkedIn | [Gowsika Eswaran](https://www.linkedin.com/in/gowsika-eswaran-9b4996364) |
+| Email | [gowsika911@gmail.com](mailto:gowsika911@gmail.com) |
+
+<br/>
+
+<a href="https://gowsika-portfolio.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore my portfolio" /></a>
 
 *Building, learning, and improving one project at a time.*
 
