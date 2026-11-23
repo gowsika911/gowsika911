@@ -8,10 +8,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Gowsika+E.;Aspiring+Software+Engineer;Java+%7C+Full+Stack+Development;Building+projects+and+solving+problems" alt="Typing introduction" />
 
 <p>
-  <a href="https://gowsika-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/gowsika-eswaran-9b4996364"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/Gowsika2006/"><img src="https://img.shields.io/badge/LEETCODE-PROFILE-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="mailto:gowsika911@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://gowsika-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-6D28D9?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/gowsika-eswaran-9b4996364"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-4F46E5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/Gowsika2006/"><img src="https://img.shields.io/badge/LEETCODE-PROFILE-7C3AED?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="mailto:gowsika911@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-334155?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=gowsika911&label=PROFILE+VIEWS&color=7C3AED&style=flat" alt="Profile views" />
